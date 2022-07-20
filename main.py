@@ -9,7 +9,8 @@ def main():
     load_dotenv(dotenv_path=env_path)
     token = os.environ['SLACK_TOKEN']
     channel = '#public-test'
-    handler = MeetingMinder(token, channel)
+    api_url = ''
+    handler = MeetingMinder(token, channel, api_url)
 
     handler.listen('next')  # TODO: remove
 

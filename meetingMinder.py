@@ -1,11 +1,13 @@
 import slack
 import datetime
+import requests
 
 
 class MeetingMinder:
-    def __init__(self, token, channel):
+    def __init__(self, token, channel, api_url):
         self.channel = channel
         self.client = slack.WebClient(token=token)
+        self.api_url = api_url
 
     def listen(self, command):
         if (command == 'next'):
@@ -23,6 +25,9 @@ class MeetingMinder:
         # the Nth meeting from now
         # then sends the result back to user
         now = datetime.datetime.now()
+        # payload = {}
+        # response = requests.get(self.api_url, params=payload)
+        # res = response.json()
         next_meeting = datetime.datetime(2022, 10, 10, 11, 10, 10)  # update
 
         return next_meeting
