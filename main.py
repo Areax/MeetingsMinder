@@ -8,7 +8,10 @@ def main():
     env_path = Path('.') / '.env'
     load_dotenv(dotenv_path=env_path)
     token = os.environ['SLACK_TOKEN']
-    handler = MeetingMinder(token)
+    channel = '#public-test'
+    handler = MeetingMinder(token, channel)
+
+    handler.listen('next')  # TODO: remove
 
 
 if __name__ == '__main__':
