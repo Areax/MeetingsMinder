@@ -1,0 +1,206 @@
+{
+  "isachas":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"10:00 AM",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"11:00 AM",
+      "end_time":"12:00 PM",
+      "subject":"Intern Project Design Review",
+      "location":"Blackfoot 08.103"
+    }
+    ]
+  },
+  "jasperz":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"11:00 AM",
+      "end_time":"11:30 AM",
+      "subject":"ORIGIN Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"01:00 PM",
+      "end_time":"02:00 PM",
+      "subject":"Hiring Interview",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "bhiankit":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"11:00 AM",
+      "end_time":"11:30 AM",
+      "subject":"ORIGIN Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"02:00 PM",
+      "end_time":"03:00 PM",
+      "subject":"Internal Design Review",
+      "location":"Blackfoot 08.101"
+    }
+    ]
+  },
+  "adaniyar":{
+    "date":"07-20-2022",
+    "meetings":[
+    ]
+  },
+  "arabhatt":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"09:00 AM",
+      "end_time":"09:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"12:00 PM",
+      "end_time":"01:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "akmokka":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"10:00 AM",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"12:00 PM",
+      "end_time":"01:00 PM",
+      "subject":"New ETL Design Review",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "nkhannz":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"10:00 AM",
+      "end_time":"10:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"12:00 PM",
+      "end_time":"1:00 PM",
+      "subject":"Intern Progress Discussion",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "jeetyb":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"10:00 AM",
+      "end_time":"10:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"12:00 PM",
+      "end_time":"1:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    },
+     {
+      "start_time":"03:00 PM",
+      "end_time":"04:00 PM",
+      "subject":"Intern Progress Discussion",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "kritiksa":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"11:00 AM",
+      "end_time":"11:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"12:00 PM",
+      "end_time":"01:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "mhernaw":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"10:00 AM",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"12:00 PM",
+      "end_time":"01:00 PM",
+      "subject":"Intern Presentation",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "arnjalui":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"10:00 AM",
+      "end_time":"10:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"04:00 PM",
+      "end_time":"04:30 PM",
+      "subject":"New Process Design Understanding",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "chhapgar":{
+    "date":"07-20-2022",
+    "meetings":[
+      {
+      "start_time":"08:00 AM",
+      "end_time":"08:30 AM",
+      "subject":"Telephonic Interview",
+      "location":"Virtual"
+    },
+    {
+      "start_time":"10:00 AM",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"12:00 PM",
+      "end_time":"1:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    }
+    ]
+  }
+}
