@@ -25,9 +25,9 @@ def getMeeting(alias):
     json_file_path = "./response.txt"
 
     with open(json_file_path, 'r') as j:
-        contents = json.loads(j.read())
+        results = json.loads(j.read())
     
-    if alias in contents:
+    if alias in results:
         return {
             "status":"200",
             "data":contents[alias]

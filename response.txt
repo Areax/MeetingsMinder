@@ -1,6 +1,6 @@
 {
   "isachas":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"10:00 AM",
@@ -17,7 +17,7 @@
     ]
   },
   "jasperz":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"11:00 AM",
@@ -34,7 +34,7 @@
     ]
   },
   "bhiankit":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"11:00 AM",
@@ -51,12 +51,12 @@
     ]
   },
   "adaniyar":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
     ]
   },
   "arabhatt":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"09:00 AM",
@@ -73,7 +73,7 @@
     ]
   },
   "akmokka":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"10:00 AM",
@@ -90,7 +90,7 @@
     ]
   },
   "nkhannz":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"10:00 AM",
@@ -107,7 +107,7 @@
     ]
   },
   "jeetyb":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"10:00 AM",
@@ -130,7 +130,7 @@
     ]
   },
   "kritiksa":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"11:00 AM",
@@ -147,7 +147,7 @@
     ]
   },
   "mhernaw":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"10:00 AM",
@@ -164,7 +164,7 @@
     ]
   },
   "arnjalui":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"10:00 AM",
@@ -181,7 +181,7 @@
     ]
   },
   "chhapgar":{
-    "date":"07-20-2022",
+    "date":"07-21-2022",
     "meetings":[
       {
       "start_time":"08:00 AM",
