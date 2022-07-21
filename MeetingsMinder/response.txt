@@ -1,0 +1,206 @@
+{
+  "isachas":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"2022-07-22T04:32:26.149",
+      "subject":"Intern Project Design Review",
+      "location":"Blackfoot 08.103"
+    }
+    ]
+  },
+  "jasperz":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"2022-07-22T04:02:26.149",
+      "subject":"ORIGIN Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"01:00 PM",
+      "end_time":"02:00 PM",
+      "subject":"Hiring Interview",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "bhiankit":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"2022-07-22T04:02:26.149",
+      "subject":"ORIGIN Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"02:00 PM",
+      "end_time":"03:00 PM",
+      "subject":"Internal Design Review",
+      "location":"Blackfoot 08.101"
+    }
+    ]
+  },
+  "adaniyar":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+    ]
+  },
+  "arabhatt":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"09:00 AM",
+      "end_time":"09:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"01:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "akmokka":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"01:00 PM",
+      "subject":"New ETL Design Review",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "nkhannz":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"10:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"1:00 PM",
+      "subject":"Intern Progress Discussion",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "jeetyb":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"10:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"1:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    },
+     {
+      "start_time":"03:00 PM",
+      "end_time":"04:00 PM",
+      "subject":"Intern Progress Discussion",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "kritiksa":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"2022-07-22T04:02:26.149",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"01:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "mhernaw":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"01:00 PM",
+      "subject":"Intern Presentation",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "arnjalui":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"10:30 AM",
+      "subject":"Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"04:00 PM",
+      "end_time":"04:30 PM",
+      "subject":"New Process Design Understanding",
+      "location":"Virtual"
+    }
+    ]
+  },
+  "chhapgar":{
+    "date":"2022-07-22T04:32:26.149",
+    "meetings":[
+      {
+      "start_time":"08:00 AM",
+      "end_time":"08:30 AM",
+      "subject":"Telephonic Interview",
+      "location":"Virtual"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"10:30 AM",
+      "subject":"RRS Daily Standup",
+      "location":"Team-Aisle"
+    },
+    {
+      "start_time":"2022-07-22T04:32:26.149",
+      "end_time":"1:00 PM",
+      "subject":"On Call Hand-off",
+      "location":"Virtual"
+    }
+    ]
+  }
+}
