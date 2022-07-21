@@ -6,7 +6,7 @@ import urllib3
 def lambda_handler(event, context):
     # TODO implement
     client = boto3.client("sqs", region_name='us-east-1')    
-    handler = meeting_minder('https://api.iad.beta.ras.meetings.enterprise-engineering.aws.dev/beta', 'alias')
+    handler = meeting_minder("https://api.iad.beta.ras.meetings.enterprise-engineering.aws.dev/beta", "alias")
     
     try:
         response = client.send_message(
@@ -24,10 +24,11 @@ class meeting_minder:
         
     def getMeeting(self):
         now = datetime.datetime.now()
-        payload = {}
+        payload = json.dumps({ "requestedOnBehalfOf": self.alias, "startTime": "1658380328000", "endTime": "1658466728000", "maxResults" "1"})
         http = urllib3.PoolManager()
-        response = http.request('GET',
-                        self.api_url,
+        full_url = self.api_url + "/api/meetings/find"
+        response = http.request('POST',
+                        full_url,
                         body = payload,
                         headers = {'Content-Type': 'application/json'},
                         retries = False)
