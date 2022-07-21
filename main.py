@@ -1,19 +1,39 @@
-import os
-from pathlib import Path
-from dotenv import load_dotenv
-from meetingMinder import MeetingMinder
+import json
+import boto3
+import datetime
+import urllib3
 
+def lambda_handler(event, context):
+    # TODO implement
+    client = boto3.client("sqs", region_name='us-east-1')    
+    handler = meeting_minder('https://api.iad.beta.ras.meetings.enterprise-engineering.aws.dev/beta', 'alias')
+    
+    try:
+        response = client.send_message(
+            QueueUrl="https://sqs.us-east-1.amazonaws.com/845988471096/MeetingsMinderQueue", 
+            MessageBody=handler.getMeeting()
+        ) 
+        return response
+    except:
+        raise
+    
+class meeting_minder:
+    def __init__(self, api_url, alias):
+        self.api_url = api_url
+        self.alias = alias
+        
+    def getMeeting(self):
+        now = datetime.datetime.now()
+        payload = {}
+        http = urllib3.PoolManager()
+        response = http.request('GET',
+                        self.api_url,
+                        body = payload,
+                        headers = {'Content-Type': 'application/json'},
+                        retries = False)
+        next_meeting = '{"userId": "jasperz"}'
+        print(response.status)
+        print(response.data)
 
-def main():
-    env_path = Path('.') / '.env'
-    load_dotenv(dotenv_path=env_path)
-    token = os.environ['SLACK_TOKEN']
-    channel = '#public-test'
-    api_url = ''
-    handler = MeetingMinder(token, channel, api_url)
-
-    handler.listen('next')  # TODO: remove
-
-
-if __name__ == '__main__':
-    main()
+        return next_meeting
+        
